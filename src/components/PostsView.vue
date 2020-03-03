@@ -63,8 +63,6 @@
             },
             onClickRight() {
                 window.android.showToast('这是一条Android原生的Toast！');
-                // this.$router.go('/test')
-                // this.$router.push('/test');
             },
             onLoad() {
                 // 异步更新数据
