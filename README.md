@@ -1,4 +1,4 @@
-# runsduer
+# Run! SDUer!
 
 ## Project setup
 ```
